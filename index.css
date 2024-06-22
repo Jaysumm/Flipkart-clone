@@ -1,0 +1,50 @@
+*{
+    padding:0;
+    margin:0;
+}
+.header{
+    background-color: #ffffff;
+    padding: 12px 28px;
+    display: inline-block;
+    font-size: 17px;
+    line-height: 24px;
+    font-family: inter_regular, fallback-inter_regular, Arial, sans-serif;
+    width: 1364px;
+    height: 67px;
+    padding: 12px 28px;
+    /* vertical-align: top; */
+}
+#login{
+    width: 111.47px;
+    height: 42px;
+    padding: 8px;
+}
+.login-logo{
+    height: 24px;
+    width: 24px;
+    margin: 0px 8px 0px 0px;
+}
+.scroll{
+    height: 12px;
+    width: 12px;
+    margin: 0px 0px 0px 8px;
+}
+.bar{
+    display: inline-flex;
+    top: 67px;
+    padding: 0px 20px;
+}
+.search-icon{
+    height: 24px;
+    width: 24px;
+    padding: 8px 8px 8px 12px;
+    background-color: rgba(137, 137, 207, 0.897);
+}
+#Search{
+    width: 536.25px;
+    height: 40px;
+    border: 0.5px solid #ffffff;
+    font-size: large;
+    background-color: rgba(137, 137, 207, 0.897);
+    /* border-radius: 2px; */
+}
